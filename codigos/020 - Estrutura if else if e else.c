@@ -13,6 +13,5 @@ int main(){
 		printf("A variavel num2 eh maior que a variavel num2!");
 	}
 	
-	
 	return 0;
 }
