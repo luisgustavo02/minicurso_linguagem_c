@@ -3,7 +3,7 @@
 int main(){
 	// Estrutura do for
 	
-	int i = 0;
+	int i;
 	// for (inicio; condicao de parada; passo)
 	for (i=0; i<10; i++){
 		printf("%d ", i);
