@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-// Estrutura de funcao inteira
+// Estrutura de funcao ponto flutuante
 float absVal(float n){
 	if (n > 0){
 		return n;
