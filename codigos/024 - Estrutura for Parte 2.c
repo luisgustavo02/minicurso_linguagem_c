@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 int main(){
-	// Estrutura do for
+	// Estrutura for
 	
 	int i;
 	// for (inicio; condicao de parada; passo)
