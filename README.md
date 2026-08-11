@@ -34,8 +34,8 @@ Na primeira aula síncrona, iniciaremos as atividades falando sobre:
 
 - [Primeiro programa em C](aulas/aula01/primeiro_programa_em_c.md)
 - [Bibliotecas básicas](aulas/aula01/bibliotecas_basicas.md)
-- [Entrada e Saída de Dados](aulas/aula01/entrada_e_saida_de_dados.md)
 - [Variáveis](aulas/aula01/variaveis.md)
+- [Entrada e Saída de Dados](aulas/aula01/entrada_e_saida_de_dados.md)
 
 ### **Aula 02:**
 
