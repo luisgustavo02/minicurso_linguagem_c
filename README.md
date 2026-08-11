@@ -14,7 +14,7 @@ O conteúdo foi programado para três aulas ao longo de três semanas.
 | Aula | Data | Conteúdo programado |
 | :--- | :--- | :---: |
 | 00 | Disponível | Disciplina de Computação Eletrônica, História da Linguagem C, Recomendações e dicas |
-| 01 | A definir | A definir |
+| 01 | A definir | Primeiro programa em C, Bibliotecas básicas, Variáveis |
 | 02 | A definir | A definir |
 | 03 | A definir | A definir |
 
@@ -24,11 +24,17 @@ O conteúdo foi programado para três aulas ao longo de três semanas.
 
 Nesta aula assíncrona, tratamos sobre três tópicos:
 
-- Disciplina de Computação Eletrônica da UFPE (IF165)
-- História da Linguagem C
-- Recomendações e dicas
+- [Disciplina de Computação Eletrônica da UFPE (IF165)](aulas/aula00/computacao_eletronica.md)
+- [História da Linguagem C](aulas/aula00/historia_linguagem_c.md)
+- [Recomendações e dicas](aulas/aula00/recomendacoes_e_dicas.md)
 
 ### **Aula 01:**
+
+Na primeira aula síncrona, iniciaremos as atividades falando sobre:
+
+- [Primeiro programa em C](aulas/aula01/primeiro_programa_em_c.md)
+- [Bibliotecas básicas](aulas/aula01/bibliotecas_basicas.md)
+- [Variáveis](aulas/aula01/variaveis.md)
 
 ### **Aula 02:**
 
