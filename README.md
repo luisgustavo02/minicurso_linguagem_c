@@ -13,7 +13,7 @@ O conteúdo foi programado para três aulas ao longo de três semanas.
 
 | Aula | Data | Conteúdo programado |
 | :--- | :--- | :---: |
-| 00 | Sem data | Disciplina de Computação Eletrônica, História da Linguagem C, Recomendações e dicas |
+| 00 | Disponível | Disciplina de Computação Eletrônica, História da Linguagem C, Recomendações e dicas |
 | 01 | A definir | A definir |
 | 02 | A definir | A definir |
 | 03 | A definir | A definir |
