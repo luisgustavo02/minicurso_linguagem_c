@@ -39,3 +39,23 @@ A linguagem C começa sem nenhum tipo de suporte, função ou comando, pode pare
 Seus comandos se devem a partir das **bibliotecas** ou **cabeçalhos**, que são arquivos de extensão `.h`. Por exemplo, a primeira biblioteca apresentada costuma ser a `stdio.h`, que significa "standard input/output". Com essa função, podemos inserir e imprimir dados na tela ou por meio de arquivos.
 
 Outro exemplo bastante utilizado é a biblioteca `math.h`, para operações matemáticas mais complexas e com funções mais específicas. Ao longo do minicurso, veremos mais bibliotecas e suas principais funções.
+
+## **Boas Práticas de Programação**
+
+Nos conceitos de programação, é de senso comum utilizar boas práticas para que outros programadores não tenham dificuldade na leitura e entendimento do seu código.
+
+Uma das práticas mais importante é a nomenclatura de variáveis e funções. Pode parecer óbvio para alguns, mas "dar o nome certo aos bois" é uma coisa importante.
+
+Por exemplo, se em um programa de uma calculadora temos 2 valores de entrada e 1 de saída, é de bom senso que esses valores de entrada sejam representados como `numero1`, `calculo1` ou `entrada1`, ao invés de `variavel`, `alguma_coisa`, `meu_nome`.
+
+Outra boa prática é utilizar os comentários, representado de duas maneiras em linguagem C:
+
+```c
+// Comentário teste
+
+/*
+Tudo escrito nos comentários
+não é executado, fica somente
+como referência para quem programa
+*/
+```
