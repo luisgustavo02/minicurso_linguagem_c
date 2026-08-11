@@ -33,15 +33,4 @@ A linguagem C também está presente em:
 - Eletrodomésticos, como micro-ondas, TVs, roteadores.
 - Equipamentos médicos que exigem resposta em tempo real.
 
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
 1 Unix é um sistema operacional desenvolvido em 1968 por Dennis Ritchie e Ken Thompson. Foi revolucionário pela portabilidade, modularidade e é base para sistemas modernos, como Linux e macOS.
