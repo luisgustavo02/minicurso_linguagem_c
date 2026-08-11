@@ -40,6 +40,8 @@ Seus comandos se devem a partir das **bibliotecas** ou **cabeçalhos**, que são
 
 Outro exemplo bastante utilizado é a biblioteca `math.h`, para operações matemáticas mais complexas e com funções mais específicas. Ao longo do minicurso, veremos mais bibliotecas e suas principais funções.
 
+Um ponto que causa vários erros é o esquecimento do ponto e vírgula `;`. Ao final de todo comando, declaração ou função, é necessário inserir um ponto e vírgula `;` para linguagem C interpretar o fim do comando.
+
 ## **Boas Práticas de Programação**
 
 Nos conceitos de programação, é de senso comum utilizar boas práticas para que outros programadores não tenham dificuldade na leitura e entendimento do seu código.
