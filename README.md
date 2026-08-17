@@ -14,7 +14,7 @@ O conteúdo foi programado para três aulas ao longo de três semanas.
 | Aula | Data | Conteúdo programado |
 | :--- | :--- | :---: |
 | 00 | Disponível | Disciplina de Computação Eletrônica, História da Linguagem C, Recomendações e dicas |
-| 01 | A definir | Primeiro programa em C, Bibliotecas Básicas, Variáveis, Operações Básicas, Entrada e Saída de Dados |
+| 01 | A definir | Primeiro programa em C, Variáveis, Operações Básicas, Bibliotecas Básicas, Entrada e Saída de Dados |
 | 02 | A definir | A definir |
 | 03 | A definir | A definir |
 
@@ -33,9 +33,9 @@ Nesta aula assíncrona, tratamos sobre três tópicos:
 Na primeira aula síncrona, iniciaremos as atividades falando sobre:
 
 - [Primeiro programa em C](aulas/aula01/primeiro_programa_em_c.md)
-- [Bibliotecas básicas](aulas/aula01/bibliotecas_basicas.md)
 - [Variáveis](aulas/aula01/variaveis.md)
 - [Operações Básicas](aulas/aula01/operacoes_basicas.md)
+- [Bibliotecas básicas](aulas/aula01/bibliotecas_basicas.md)
 - [Entrada e Saída de Dados](aulas/aula01/entrada_e_saida_de_dados.md)
 
 ### **Aula 02:**
