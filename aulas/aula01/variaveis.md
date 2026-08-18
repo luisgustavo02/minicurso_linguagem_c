@@ -38,9 +38,7 @@ Variáveis do tipo `double` são muito similares com as variáveis `float`, com 
 
 As variáveis do tipo `char` são utilizadas para armazenar caracteres, sejam eles números, símbolos ou letras. Elas possuem o tamanho de **1 byte**, podem armazenar somente 1 caractere e são representados como `%c`.
 
-## **Resumo**
-
-Podemos verificar esses tamanhos, com base no arquivo [material/cod002.c](material/cod002.c):
+Em resumo, podemos verificar esses tamanhos, com base no arquivo [material/cod002.c](material/cod002.c):
 
 ```c
 #include<stdio.h>
@@ -72,3 +70,98 @@ Em suma, podemos seguir a tabela abaixo:
 | `long double` | 16 bytes | $\pm 3,4\,\cdot 10^{-4932}$ a $\pm 1,1\,\cdot 10^{4932}$ |
 | `char` | 1 byte | $-128$ a $127$ |
 | `unsigned char` | 1 byte | $0$ a $255$ |
+
+## **2. Nome**
+
+Toda variável também necessita de um **nome**, para que ela possa ser chamada ou que tenha um valor atribuído. Pelas boas práticas e padronização das linguagens, temos algumas maneiras de nomeá-las:
+
+- `PascalCase`
+- `camelCase`
+- `snake_case`
+- `SCREAMING_SNAKE_CASE`
+
+É possível utilizar números na declaração de variáveis, caso seja necessário, porém devemos evitar caracteres especiais, como acentos, símbolos e hífens. Além disso, não é possível utilizar as [palavras reservadas](palavras_reservadas.md) como nomes de variáveis. Podemos observar isso no trecho abaixo:
+
+```c
+#include<stdio.h>
+
+int main(){
+    int numero_idade;
+    float numeroAltura;
+    double cotacao_do_dolar_2026;
+    char SimboloQualquer;
+
+    return 0;
+}
+```
+
+## **3. Conteúdo**
+
+O **conteúdo**, ou valor, de uma variável corresponde ao valor armazenado por ela. Podemos armazenar esse valor com o operador `=`, que significa atribuição. Vejamos no exemplo abaixo:
+
+```c
+#include<stdio.h>
+
+int main(){
+    int numero_idade = 24;
+    float numeroAltura = 1.83;
+    double cotacao_do_dolar_2026 = 5.2135;
+    char SimboloQualquer = '&';
+
+    printf("numero_idade: %d\n", numero_idade);
+    printf("numeroAltura: %f\n", numeroAltura);
+    printf("cotacao_do_dolar_2026: %lf\n", cotacao_do_dolar_2026);
+    printf("SimboloQualquer: %c", SimboloQualquer);
+
+    return 0;
+}
+```
+
+## **4. Endereço de Memória**
+
+Ao criar uma variável, um espaço é alocado na memória e ele pode ser acessado pelo **endereço de memória**. Ele pode ser representado pelo símbolo `&` seguido do nome da variável, como mostra os exemplos abaixo:
+
+```c
+#include<stdio.h>
+
+int main(){
+    int numero_idade = 24;
+    float numeroAltura = 1.83;
+    double cotacao_do_dolar_2026 = 5.2135;
+    char SimboloQualquer = '&';
+
+    printf("Endereco de memoria de numero_idade: %d\n", &numero_idade);
+    printf("Endereco de memoria de numeroAltura: %f\n", &numeroAltura);
+    printf("Endereco de memoria de cotacao_do_dolar_2026: %lf\n", &cotacao_do_dolar_2026);
+    printf("Endereco de memoria de SimboloQualquer: %c", &SimboloQualquer);
+
+    return 0;
+}
+```
+
+## **Resumo**
+
+Visto todos os quatro tópicos que fazem as variáveis, podemos ver todos esses conceitos no arquivo [material/cod003.c](material/cod003.c).
+
+```c
+#include<stdio.h>
+
+int main(){
+    int numero_idade = 24;
+    float numeroAltura = 1.83;
+    double cotacao_do_dolar_2026 = 5.2135;
+    char SimboloQualquer = '&';
+
+    printf("numero_idade: %d\n", numero_idade);
+    printf("numeroAltura: %f\n", numeroAltura);
+    printf("cotacao_do_dolar_2026: %lf\n", cotacao_do_dolar_2026);
+    printf("SimboloQualquer: %c\n\n", SimboloQualquer);
+
+    printf("Endereco de memoria de numero_idade: %d\n", &numero_idade);
+    printf("Endereco de memoria de numeroAltura: %f\n", &numeroAltura);
+    printf("Endereco de memoria de cotacao_do_dolar_2026: %lf\n", &cotacao_do_dolar_2026);
+    printf("Endereco de memoria de SimboloQualquer: %c", &SimboloQualquer);
+
+    return 0;
+}
+```
