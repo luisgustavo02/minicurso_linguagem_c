@@ -60,7 +60,7 @@ int main(){
     float num3 = 6.7, num4 = 9.3;
     printf("%d + %d = %d\n", num1, num2, num1 + num2);
     printf("%d + %f = %f\n", num1, num3, num1 + num3);
-    printf("%f + %f = %f\n", num3, num4, num3 + num4);
+    printf("%f + %f = %f", num3, num4, num3 + num4);
 
     return 0;
 }
@@ -75,6 +75,31 @@ A saída do programa será:
 ```
 
 ## 2. Subtração ou diferença
+
+Também na matemática, podemos representar a subtração com o sinal `-`. Vamos ver um exemplo conforme o arquivo [material/cod006.c](material/cod006.c).
+
+```c
+#include<stdio.h>
+
+int main(){
+    int num1 = -3, num2 = 7;
+    float num3 = -12.4, num4 = 1.345;
+
+    printf("%d - %d = %d\n", num1, num2, num1 - num2);
+    printf("%d - %f = %f\n", num1, num3, num1 - num3);
+    printf("%f - %f = %f", num3, num4, num3 - num4);
+
+    return 0;
+}
+```
+
+Assim, a saída do programa será:
+
+```output
+-3 - 7 = -10
+-3 - -12.400000 = 9.400000
+-12.400000 - 1.345000 = -13.745000
+```
 
 ## 3. Multiplicação ou produto
 
