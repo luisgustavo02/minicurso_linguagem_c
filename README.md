@@ -39,10 +39,31 @@ Nesta aula assíncrona, tratamos sobre três tópicos:
 Na primeira aula síncrona, iniciaremos as atividades falando sobre:
 
 - [Primeiro programa em C](aulas/aula01/primeiro_programa_em_c.md)
+    - Biblioteca utilizada
+    - Função `main()`
+    - Imprimindo texto na tela
+    - Código final
 - [Variáveis](aulas/aula01/variaveis.md)
+    - Tipo
+    - Nome
+    - Conteúdo
+    - Endereço de Memória
+    - Resumo
 - [Palavras Reservadas](aulas/aula01/palavras_reservadas.md)
 - [Operações Básicas](aulas/aula01/operacoes_basicas.md)
+    - Adição ou soma
+    - Subtração ou diferença
+    - Multiplicação ou produto
+    - Divisão ou razão
+    - Resto da divisão
 - [Bibliotecas básicas](aulas/aula01/bibliotecas_basicas.md)
+    - `stdio.h`
+    - `stdib.h`
+    - `math.h`
+    - `ctype.h`
+    - `string.h`
+    - `time.h`
+    - `locale.h`
 - [Entrada e Saída de Dados](aulas/aula01/entrada_e_saida_de_dados.md)
 
 ### **Aula 02:**
