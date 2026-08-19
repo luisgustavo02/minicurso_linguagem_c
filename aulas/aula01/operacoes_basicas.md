@@ -132,4 +132,51 @@ Em caso de diferenças na exatidão do resultado, isso se deve ao erro numérico
 
 ## 4. Divisão ou razão
 
+Já para a divisão de dois valores, utilizamos a barra tradicional da matemática `/`, como mostra o exemplo a seguir e no arquivo [material/cod009.](material/cod009.c).
+
+```c
+#include<stdio.h>
+
+int main(){
+    int num1 = 8, num2 = 2;
+    float num3 = -3, num4 = 9;
+    printf("%d / %d = %d\n", num1, num2, num1 / num2);
+    printf("%d / %f = %f\n", num1, num3, num1 / num3);
+    printf("%f / %f = %f", num3, num4, num3 / num4);
+
+    return 0;
+}
+```
+
+Ao executar o código, nossa saída será:
+
+```output
+8 / 2 = 4
+8 / -3.000000 = 2.666667
+-3.000000 / 9.000000 = -0.333333
+```
+
 ## 5. Resto da divisão
+
+O resto da divisão, representado pelo sinal de porcentagem `%`, é realizado somente entre variáveis inteiras. É possível identificar números pares e ímpares com essa operação. Observe o exemplo do arquivo [material/cod010.c](material/cod010.c).
+
+```c
+#include<stdio.h>
+
+int main(){
+    int num1 = 215, num2 = 2, num3 = 3, num4 = 5;
+    printf("%d %% %d = %d\n", num1, num2, num1 % num2);
+    printf("%d %% %d = %d\n", num1, num3, num1 % num3);
+    printf("%d %% %d = %d", num1, num4, num1 % num4);
+
+    return 0;
+}
+```
+
+Note que é necessário colocar dois sinais de porcentagens juntos para que um único seja mostrado na tela. Por fim, a saída do programa deve ser:
+
+```output
+215 % 2 = 1
+215 % 3 = 2
+215 % 5 = 0
+```
