@@ -4,7 +4,7 @@
 
 A última atualização do site oficial e fonte de referência foi no período de 2025.1, então as informações podem variar.
 
-## **Sobre a disciplina**
+## **1. Sobre a disciplina**
 
 Ofertada pelo CIn, o Centro de Informática, a disciplina trata sobre a introdução a programação com a [linguagem C](historia_linguagem_c.md).
 
@@ -16,7 +16,7 @@ O livro-texto é Aprendendo a Programar Programando na Linguagem C, de Jaime Eva
 
 Um outro material disponibilizado é o site da PUC-RS do professor Márcio Sarroglia Pinho, disponibilzado em [link PUC-RS](https://www.inf.pucrs.br/~pinho/LaproI/IntroC/IntroC.htm).
 
-## **Conteúdo da disciplina**
+## **2. Conteúdo da disciplina**
 
 O conteúdo programático da disciplina é divido em:
 
