@@ -1,6 +1,6 @@
 # **História da Linguagem C**
 
-A linguagem C surgiu em 1972, criada pelo cientista da computação Dennis Ritchie da AT&T Bell Labs, com o propósito de auxiliar no desenvolvimento do sistema operacional Unix¹.
+A linguagem C surgiu em 1972, criada pelo cientista da computação Dennis Ritchie da AT&T Bell Labs, com o propósito de auxiliar no desenvolvimento do sistema operacional Unix. O Unix é um sistema operacional desenvolvido em 1968 por Dennis Ritchie e Ken Thompson. Foi revolucionário pela portabilidade, modularidade e é base para sistemas modernos, como Linux e macOS.
 
 Ritchie e seu colega Brian Kernighan escreveram o livro "The C Programming Language", publicado em 1978. 
 
@@ -32,5 +32,3 @@ A linguagem C também está presente em:
 - Microcontroladores e sistemas embarcados, presentes em automóveis, sistemas IoT.
 - Eletrodomésticos, como micro-ondas, TVs, roteadores.
 - Equipamentos médicos que exigem resposta em tempo real.
-
-1 Unix é um sistema operacional desenvolvido em 1968 por Dennis Ritchie e Ken Thompson. Foi revolucionário pela portabilidade, modularidade e é base para sistemas modernos, como Linux e macOS.
