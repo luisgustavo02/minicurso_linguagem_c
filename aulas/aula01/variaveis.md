@@ -36,7 +36,7 @@ Variáveis do tipo `double` são muito similares com as variáveis `float`, com 
 
 ### `char`
 
-As variáveis do tipo `char` são utilizadas para armazenar caracteres, sejam eles números, símbolos ou letras. Elas possuem o tamanho de **1 byte**, podem armazenar somente 1 caractere e são representados como `%c`.
+As variáveis do tipo `char` são utilizadas para armazenar caracteres, sejam eles números, símbolos ou letras. Elas possuem o tamanho de **1 byte**, podem armazenar somente 1 caractere e são representados como `%c`. Por fim, é necessário armazená-las entre aspas simplas `''`.
 
 Em resumo, podemos verificar esses tamanhos, com base no arquivo [material/cod002.c](material/cod002.c):
 
