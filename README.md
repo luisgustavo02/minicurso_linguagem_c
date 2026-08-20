@@ -25,14 +25,8 @@ O conteúdo foi programado para três aulas ao longo de três semanas.
 Nesta aula assíncrona, tratamos sobre três tópicos:
 
 - [Disciplina de Computação Eletrônica da UFPE (IF165)](aulas/aula00/computacao_eletronica.md)
-    - Sobre a disciplina
-    - Conteúdo da disciplina
 - [História da Linguagem C](aulas/aula00/historia_linguagem_c.md)
 - [Recomendações e dicas](aulas/aula00/recomendacoes_e_dicas.md)
-    - Pré-requisitos
-    - Ambiente de desenvolvimento
-    - Funcionamento do código
-    - Boas práticas de programação
 
 ### **Aula 01:**
 
