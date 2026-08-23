@@ -1,6 +1,6 @@
 # Operações Básicas
 
-Com o conceito de variáveis, em especial as variáveis numéricas do tipo `int`, `float` e `double`, teremos o conceito das operações básicas. São elas:
+Com o conceito de variáveis, em especial as variáveis numéricas do tipo `int`, `float` e `double`, teremos o conceito das operações básicas ou aritméticas. São elas:
 
 1. Adição ou soma
 2. Subtração ou diferença
