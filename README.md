@@ -14,9 +14,9 @@ O conteúdo foi programado para três aulas ao longo de três semanas.
 | Aula | Data | Conteúdo programado |
 | :--- | :--- | :---: |
 | 00 | Disponível | Disciplina de Computação Eletrônica, História da Linguagem C, Recomendações e dicas |
-| 01 | A definir | Primeiro programa em C, Variáveis, Palavras Reservadas, Operações Básicas, Bibliotecas Básicas, Entrada e Saída de Dados |
-| 02 | A definir | A definir |
-| 03 | A definir | A definir |
+| 01 | 26 e 28/08 | Primeiro Programa em C, Variáveis, Palavras Reservadas, Operações Básicas, Bibliotecas Básicas, Entrada e Saída de Dados |
+| 02 | 04 e 16/09 | Operadores Comparativos e Lógicos, Estrutura Condicional e Estruturas de Repetição |
+| 03 | 18 e 23/09 | A definir |
 
 ## **Conteúdo programado:**
 
@@ -32,7 +32,7 @@ Nesta aula assíncrona, tratamos sobre três tópicos:
 
 Na primeira aula síncrona, iniciaremos as atividades falando sobre:
 
-- [Primeiro programa em C](aulas/aula01/primeiro_programa_em_c.md)
+- [Primeiro Programa em C](aulas/aula01/primeiro_programa_em_c.md)
 - [Variáveis](aulas/aula01/variaveis.md)
 - [Palavras Reservadas](aulas/aula01/palavras_reservadas.md)
 - [Operações Básicas](aulas/aula01/operacoes_basicas.md)
@@ -41,5 +41,13 @@ Na primeira aula síncrona, iniciaremos as atividades falando sobre:
 - [Exercício 01](aulas/aula01/exercicio01.md)
 
 ### **Aula 02:**
+
+Já na segunda aula síncrona, o conteúdo será feito com os tópicos abaixo:
+
+- [Operativos Comparativos](aulas/aula02/operadores_comparativos.md)
+- [Operadores Lógicos](aulas/aula02/operadores_logicos.md)
+- [Estruturas Condicionais](aulas/aula02/estruturas_condicionais.md)
+- [Estruturas de Repetição](aulas/aula02/estruturas_de_repeticao.md)
+- [Exercício 02](aulas/aula02/exercicio02.md)
 
 ### **Aula 03:**
