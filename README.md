@@ -53,3 +53,42 @@ Já na segunda aula síncrona, o conteúdo será feito com os tópicos abaixo:
 - [Exercício 02](aulas/aula02/exercicio02.md)
 
 ### **Aula 03:**
+
+Por fim, na última aula teremos:
+
+## **Divisão do repositório:**
+
+O repositório abaixo está disponibilizado conforme a seguinte distribuição:
+
+```
+minicurso_linguagem_c/
+├── aulas/
+│   ├── aula00/
+│   │   ├── material/
+│   │   ├── computacao_eletronica.md
+│   │   ├── historia_linguagem_c.md
+│   │   └── recomendacoes_e_dicas.md
+│   ├── aula01/
+│   │   ├── material/
+│   │   ├── bibliotecas_basicas.md
+│   │   ├── entrada_e_saida_de_dados.md
+│   │   ├── exercicio01.md
+│   │   ├── operacoes_basicas.md
+│   │   ├── primeiro_programa_em_c.md
+│   │   └── variaveis.md
+│   ├── aula02/
+│   │   ├── material/
+│   │   ├── estruturas_condicionais.md
+│   │   ├── estruturas_de_repeticao.md
+│   │   ├── exercicio02.md
+│   │   ├── operadores_comparativas.md
+│   │   ├── operadores_logicos.md
+│   │   ├── tabela_ascii.md
+│   │   └── vetores_e_matrizes.md
+│   └── aula03/
+│       ├── material/
+├── .gitignore
+└── README.md
+```
+
+Todos os códigos de exemplo e resoluções de exercícios estarão disponibilizados nas subpastas de `material/`.
