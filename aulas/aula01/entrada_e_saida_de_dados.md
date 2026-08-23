@@ -2,7 +2,7 @@
 
 Nesse tópico, vamos analisar a entrada e saída de dados na prática, visto o conceito de variáveis.
 
-Utilizando a função `scanf()`, da biblioteca `stdio.h`, podemos coletar valores inseridos pelo usuário. Vejamos o exemplo do arquivo [material/cod012.c](material/cod012.c), onde usuário deve inserir um número inteiro:
+Utilizando a função `scanf()`, da biblioteca `stdio.h`, podemos coletar valores inseridos pelo usuário. Vejamos o exemplo do arquivo [`material/cod012.c`](material/cod012.c), onde usuário deve inserir um número inteiro:
 
 ```c
 #include<stdio.h>
@@ -39,7 +39,7 @@ Neste exemplo, vemos que a variável inteira é referenciada como `%d`, tanto no
 | `double` | `%lf` |
 | `char` | `%c` |
 
-Vamos ver algum exemplo com outras variáveis, como mostra o arquivo []():
+Vamos ver algum exemplo com outras variáveis, como mostra o arquivo [`material/cod013.c`](material/cod013.c):
 
 ```c
 #include<stdio.h>

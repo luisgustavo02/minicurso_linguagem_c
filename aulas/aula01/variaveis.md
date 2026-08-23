@@ -38,7 +38,7 @@ Variáveis do tipo `double` são muito similares com as variáveis `float`, com 
 
 As variáveis do tipo `char` são utilizadas para armazenar caracteres, sejam eles números, símbolos ou letras. Elas possuem o tamanho de **1 byte**, podem armazenar somente 1 caractere e são representados como `%c`. Por fim, é necessário armazená-las entre aspas simplas `''`.
 
-Em resumo, podemos verificar esses tamanhos, com base no arquivo [material/cod002.c](material/cod002.c):
+Em resumo, podemos verificar esses tamanhos, com base no arquivo [`material/cod002.c`](material/cod002.c):
 
 ```c
 #include<stdio.h>
@@ -141,7 +141,7 @@ int main(){
 
 ## **Resumo**
 
-Visto todos os quatro tópicos que fazem as variáveis, podemos ver todos esses conceitos no arquivo [material/cod003.c](material/cod003.c).
+Visto todos os quatro tópicos que fazem as variáveis, podemos ver todos esses conceitos no arquivo [`material/cod003.c`](material/cod003.c).
 
 ```c
 #include<stdio.h>

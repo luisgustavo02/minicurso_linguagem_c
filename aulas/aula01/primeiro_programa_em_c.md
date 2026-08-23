@@ -64,4 +64,4 @@ A saída do programa deve ser:
 Hello world
 ```
 
-Você pode ver esse código no arquivo [material/cod001.c](material/cod001.c).
+Você pode ver esse código no arquivo [`material/cod001.c`](material/cod001.c).

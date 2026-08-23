@@ -54,7 +54,7 @@ Voltada para operações, funções e constantes matemáticas, a biblioteca `mat
 - `M_SQRT2`: Valor de raiz quadrada de $2$ ($\sqrt{2} = 1,41421356237309504880$)
 - `M_SQRT1_2`: Valor da metade da raiz quadrada de $2$ ($\frac{1}{\sqrt{2}} = \frac{\sqrt{2}}{2} = 0,707106781186547524401$)
 
-É possível observá-las no arquivo [material/cod011.c](material/cod011.c).
+É possível observá-las no arquivo [`material/cod011.c`](material/cod011.c).
 
 **Funções:**
 

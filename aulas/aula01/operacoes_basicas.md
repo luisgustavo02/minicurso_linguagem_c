@@ -46,11 +46,11 @@ Logo, a saída do programa será:
 
 De modo paralelo, se uma variável `int` é operada com uma variável `float`, o resultado será um valor do tipo `float`. Ou seja, os tipos de maior tamanho prevalecem.
 
-Esses códigos podem ser conferidos nos arquivos [material/cod004.c](material/cod004.c) e [material/cod005.c](material/cod005.c).
+Esses códigos podem ser conferidos nos arquivos [`material/cod004.c`](material/cod004.c) e [`material/cod005.c`](material/cod005.c).
 
 ## 1. Adição ou Soma
 
-Como na matemática, a adição é representada com o sinal `+`, como vemos abaixo e no arquivo [material/cod006.c](material/cod006.c):
+Como na matemática, a adição é representada com o sinal `+`, como vemos abaixo e no arquivo [`material/cod006.c`](material/cod006.c):
 
 ```c
 #include<stdio.h>
@@ -76,7 +76,7 @@ A saída do programa será:
 
 ## 2. Subtração ou diferença
 
-Também na matemática, podemos representar a subtração com o sinal `-`. Vamos ver um exemplo conforme o arquivo [material/cod007.c](material/cod007.c).
+Também na matemática, podemos representar a subtração com o sinal `-`. Vamos ver um exemplo conforme o arquivo [`material/cod007.c`](material/cod007.c).
 
 ```c
 #include<stdio.h>
@@ -103,7 +103,7 @@ Assim, a saída do programa será:
 
 ## 3. Multiplicação ou produto
 
-Para a operação de multiplicação, utilizamos o asterisco `*` na linguagem C. Vejamos o exemplo no arquivo [material/cod008.c](material/cod008.c).
+Para a operação de multiplicação, utilizamos o asterisco `*` na linguagem C. Vejamos o exemplo no arquivo [`material/cod008.c`](material/cod008.c).
 
 ```c
 #include<stdio.h>
@@ -132,7 +132,7 @@ Em caso de diferenças na exatidão do resultado, isso se deve ao erro numérico
 
 ## 4. Divisão ou razão
 
-Já para a divisão de dois valores, utilizamos a barra tradicional da matemática `/`, como mostra o exemplo a seguir e no arquivo [material/cod009.](material/cod009.c).
+Já para a divisão de dois valores, utilizamos a barra tradicional da matemática `/`, como mostra o exemplo a seguir e no arquivo [`material/cod009.c`](material/cod009.c).
 
 ```c
 #include<stdio.h>
@@ -158,7 +158,7 @@ Ao executar o código, nossa saída será:
 
 ## 5. Resto da divisão
 
-O resto da divisão, representado pelo sinal de porcentagem `%`, é realizado somente entre variáveis inteiras. É possível identificar números pares e ímpares com essa operação. Observe o exemplo do arquivo [material/cod010.c](material/cod010.c).
+O resto da divisão, representado pelo sinal de porcentagem `%`, é realizado somente entre variáveis inteiras. É possível identificar números pares e ímpares com essa operação. Observe o exemplo do arquivo [`material/cod010.c`](material/cod010.c).
 
 ```c
 #include<stdio.h>
