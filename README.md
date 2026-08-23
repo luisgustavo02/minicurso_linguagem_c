@@ -15,7 +15,7 @@ O conteúdo foi programado para três aulas ao longo de três semanas.
 | :--- | :--- | :---: |
 | 00 | Disponível | Disciplina de Computação Eletrônica, História da Linguagem C, Recomendações e dicas |
 | 01 | 26 e 28/08 | Primeiro Programa em C, Variáveis, Palavras Reservadas, Operações Básicas, Bibliotecas Básicas, Entrada e Saída de Dados |
-| 02 | 04 e 16/09 | Operadores Comparativos e Lógicos, Estrutura Condicional e Estruturas de Repetição |
+| 02 | 04 e 16/09 | Operadores Comparativos e Lógicos, Tabela ASCII, Estrutura Condicional e de Repetição, Vetores e Matrizes |
 | 03 | 18 e 23/09 | A definir |
 
 ## **Conteúdo programado:**
@@ -46,8 +46,10 @@ Já na segunda aula síncrona, o conteúdo será feito com os tópicos abaixo:
 
 - [Operativos Comparativos](aulas/aula02/operadores_comparativos.md)
 - [Operadores Lógicos](aulas/aula02/operadores_logicos.md)
+- [Tabela ASCII](aulas/aula02/tabela_ascii.md)
 - [Estruturas Condicionais](aulas/aula02/estruturas_condicionais.md)
 - [Estruturas de Repetição](aulas/aula02/estruturas_de_repeticao.md)
+- [Vetores e Matrizes](aulas/aula02/vetores_e_matrizes.md)
 - [Exercício 02](aulas/aula02/exercicio02.md)
 
 ### **Aula 03:**
