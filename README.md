@@ -60,6 +60,7 @@ Por fim, na última aula teremos:
 - [Structs](aulas/aula03/structs.md)
 - [Funções](aulas/aula03/funcoes.md)
 - [Ponteiros](aulas/aula03/ponteiros.md)
+- [Exercício 03](aulas/aula03/exercicio03.md)
 
 ## **Divisão do repositório:**
 
