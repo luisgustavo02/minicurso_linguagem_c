@@ -16,7 +16,7 @@ O conteúdo foi programado para três aulas ao longo de três semanas.
 | 00 | Disponível | Disciplina de Computação Eletrônica, História da Linguagem C, Recomendações e dicas |
 | 01 | 26 e 28/08 | Primeiro Programa em C, Variáveis, Palavras Reservadas, Operações Básicas, Bibliotecas Básicas, Entrada e Saída de Dados |
 | 02 | 04 e 16/09 | Operadores Comparativos e Lógicos, Tabela ASCII, Estrutura Condicional e de Repetição, Vetores e Matrizes |
-| 03 | 18 e 23/09 | A definir |
+| 03 | 18 e 23/09 | Strings, Structs, Funções e Ponteiros |
 
 ## **Conteúdo programado:**
 
