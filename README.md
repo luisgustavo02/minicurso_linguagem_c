@@ -56,6 +56,11 @@ Já na segunda aula síncrona, o conteúdo será feito com os tópicos abaixo:
 
 Por fim, na última aula teremos:
 
+- [Strings](aulas/aula03/strings.md)
+- [Structs](aulas/aula03/structs.md)
+- [Funções](aulas/aula03/funcoes.md)
+- [Ponteiros](aulas/aula03/ponteiros.md)
+
 ## **Divisão do repositório:**
 
 O repositório abaixo está disponibilizado conforme a seguinte distribuição:
