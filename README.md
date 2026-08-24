@@ -93,6 +93,11 @@ minicurso_linguagem_c/
 │   │   └── vetores_e_matrizes.md
 │   └── aula03/
 │       ├── material/
+│       ├── exercicio03.md
+│       ├── funcoes.md
+│       ├── ponteiros.md
+│       ├── strings.md
+│       └── structs.md
 ├── .gitignore
 └── README.md
 ```
