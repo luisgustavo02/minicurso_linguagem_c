@@ -62,4 +62,6 @@ int main(){
 }
 ```
 
+Podemos controlar a quantidade de casas decimais dos tipos `float` e `double`, conforme os comandos `%.2f` (limitando a 2 casas decimais) e `%.9lf` (expandindo para 9 casas decimais).
+
 Em breve, veremos mais sobre outros tipos de dados e estruturas do código.
