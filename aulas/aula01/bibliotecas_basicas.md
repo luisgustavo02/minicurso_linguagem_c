@@ -5,6 +5,7 @@ Dentre as principais bibliotecas utilizadas em linguagem C e na disciplina de Co
 - `stdio.h`
 - `stdlib.h`
 - `math.h`
+- `ctype.h`
 - `string.h`
 - `time.h`
 - `locale.h`
