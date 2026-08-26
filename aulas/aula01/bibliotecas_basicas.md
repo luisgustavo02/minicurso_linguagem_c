@@ -99,7 +99,7 @@ A biblioteca `ctype.h` foi desenvolvida para o tratamento de caracteres, seja po
 
 **Funções de Conversão:**
 
-- `tolwer(char a)`
+- `tolower(char a)`
 - `toupper(char a)`
 
 **Funções de Manipulação:**
