@@ -12,9 +12,9 @@ int main(){
     printf("SimboloQualquer: %c\n\n", SimboloQualquer);
 
     printf("Endereco de memoria de numero_idade: %d\n", &numero_idade);
-    printf("Endereco de memoria de numeroAltura: %f\n", &numeroAltura);
-    printf("Endereco de memoria de cotacao_do_dolar_2026: %lf\n", &cotacao_do_dolar_2026);
-    printf("Endereco de memoria de SimboloQualquer: %c", &SimboloQualquer);
+    printf("Endereco de memoria de numeroAltura: %d\n", &numeroAltura);
+    printf("Endereco de memoria de cotacao_do_dolar_2026: %d\n", &cotacao_do_dolar_2026);
+    printf("Endereco de memoria de SimboloQualquer: %d", &SimboloQualquer);
 
     return 0;
 }
