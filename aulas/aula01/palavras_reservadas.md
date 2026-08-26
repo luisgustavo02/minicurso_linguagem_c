@@ -12,6 +12,7 @@ As palavras reservadas são comandos padrões da linguagem de programação, usa
 - `float`
 - `int`
 - `long`
+- `short`
 - `signed`
 - `static`
 - `struct`
