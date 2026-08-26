@@ -17,7 +17,7 @@ Construa um código que receba as seguintes informações do usuário:
 
 Com esses dados, calcule o IMC do usuário, dado pela fórmula:
 
-$\mathbf{IMC} = \frac{\mathrm{peso}}{\mathrm{altura}} \, [\frac{\mathrm{kg}}{\mathrm{m}^{2}}]$
+$\mathbf{IMC} = \frac{\mathrm{peso}}{\mathrm{altura}^{2}} \, [\frac{\mathrm{kg}}{\mathrm{m}^{2}}]$
 
 ---
 
