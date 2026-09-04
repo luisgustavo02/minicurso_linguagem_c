@@ -2,7 +2,7 @@
 
 Visto os conceitos de operações, o primeiro passo para evoluir no código é compreender e aplicar as estruturas condicionais. Dentre as possibilidades, existem 3 tipos de estruturas condicionais na linguagem C.
 
-## Estrutura `if`
+## Estrutura do `if`
 
 A estrutura condicional do `if` pode ser segmentada em 3 partes: `if`, `else if` e `else`. Para que a estrutura seja iniciada, necessariamente um `if` tem que ser inserido, mas não é necessário haver um `else if` ou um `else`.
 
@@ -104,7 +104,7 @@ int main(){
 }
 ```
 
-## Estrutura `switch` e `case`
+## Estrutura do `switch` e `case`
 
 Analogamente às estruturas condicionais do `if`, temos o operador `switch`, feito para comparar o conteúdo de uma variável com valores pré-definidos, junto com o `case`. Vejamos um escopo:
 
