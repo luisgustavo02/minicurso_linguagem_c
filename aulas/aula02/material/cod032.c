@@ -8,7 +8,8 @@ int main(){
         scanf(" %d", &num);
 
         if (num % 2 == 0){
-            printf("Voce digitou um numero par!");
+            printf("Voce digitou um numero par!\n");
+            break;
         }
     }
     
