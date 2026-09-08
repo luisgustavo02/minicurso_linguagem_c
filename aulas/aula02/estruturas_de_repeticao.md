@@ -116,6 +116,7 @@ int main(){
 
         if (num % 2 == 0){
             printf("Voce digitou um numero par!");
+            break;
         }
     }
 
