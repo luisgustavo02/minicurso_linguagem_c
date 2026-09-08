@@ -23,7 +23,7 @@ Em um vetor, podemos ter essa representação a partir da posição $0$ até a p
 Caso deseje declarar os valores de cada posição do vetor, é possível fazê-lo da seguinte forma:
 
 ```
-<tipo> <nome_do_vetor>[N] = {valor1, valor2, ..., valorN};
+<tipo> <nome_do_vetor>[] = {valor1, valor2, ..., valorN};
 ```
 
 A quantidade de colchetes indica a quantidade de dimensões. Vamos utilizar a base da tabela e os conceitos de estruturas de repetição para mostrar as notas e calcular a média da turma, conforme o código [`material/cod033.c`](material/cod033.c).
@@ -33,7 +33,7 @@ A quantidade de colchetes indica a quantidade de dimensões. Vamos utilizar a ba
 
 int main(){
     int i, N=7;
-    float media, notas[N]={8.4, 3.5, 5.9, 9.7, 1.8, 7.7, 6.2};
+    float media, notas[]={8.4, 3.5, 5.9, 9.7, 1.8, 7.7, 6.2};
 
     for (i=0; i<N; i++){
         printf("nota %d: %.2f\n", i+1, notas[i]);
