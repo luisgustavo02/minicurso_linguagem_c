@@ -86,21 +86,26 @@ int main(){
         printf("Nota1 invalida.");
     }
 
-    if (nota2 < 0 || nota2 > 10){
+    else if (nota2 < 0 || nota2 > 10){
         printf("Nota2 invalida.");
     }
 
-    float media = (nota1 + nota2) / 2;
-
-    if (media >= 7){
-        printf("Parabens! Voce foi aprovado");
-    }
-    else if (media >= 3){
-        printf("Voce vai para a final! Estude mais!");
-    }
     else{
-        printf("Voce foi reprovado!");
+
+        float media = (nota1 + nota2) / 2;
+
+        if (media >= 7){
+            printf("Parabens! Voce foi aprovado");
+        }
+        else if (media >= 3){
+            printf("Voce vai para a final! Estude mais!");
+        }
+        else{
+            printf("Voce foi reprovado!");
+        }
     }
+
+    return 0;
 }
 ```
 
