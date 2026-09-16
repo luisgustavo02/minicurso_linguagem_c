@@ -2,7 +2,7 @@
 
 int main(){
     int N;
-    float media;
+    float media = 0;
 
     printf("Digite a quantidade de notas: ");
     scanf(" %d", &N);
