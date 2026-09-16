@@ -78,7 +78,7 @@ O `do while` funciona de uma forma muito similar ao `while`, com uma única dife
 ```
 do{
     Bloco de comando
-}while (Condição de parada);
+}while (Condição de continuidade);
 ```
 
 Podemos construir o código com mesma saída no arquivo [`material/cod031.c`](material/cod031.c):
@@ -95,6 +95,7 @@ int main(){
     int i=0;
     do{
         printf("%d\n", i+1);
+        i++;
     }while (i<N);
     return 0;
 }
