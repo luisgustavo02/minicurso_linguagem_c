@@ -33,7 +33,7 @@ A quantidade de colchetes indica a quantidade de dimensões. Vamos utilizar a ba
 
 int main(){
     int i, N=7;
-    float media, notas[]={8.4, 3.5, 5.9, 9.7, 1.8, 7.7, 6.2};
+    float media = 0, notas[]={8.4, 3.5, 5.9, 9.7, 1.8, 7.7, 6.2};
 
     for (i=0; i<N; i++){
         printf("nota %d: %.2f\n", i+1, notas[i]);
@@ -70,7 +70,7 @@ Também é possível definir os valores de cada posição do vetor, utilizando a
 
 int main(){
     int N;
-    float media;
+    float media = 0;
 
     printf("Digite a quantidade de notas: ");
     scanf(" %d", &N);
